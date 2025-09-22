@@ -15,7 +15,7 @@ The main objective of this project is to analyze Kickstarter crowdfunding data t
 - Category-wise Success Rate (Bar Chart)
 - Country-wise Performance (Map Visual)
 - Pledged Amount vs. Goal (Scatter Plot)
-- Dashboard Interaction Excel <a href=""> View Dashboard </a>
+- Dashboard Interaction Excel <a href="https://github.com/PreethamKoppad/Crowdfunding-Kickstarter/blob/main/Crowdfunding%20excel.jpg"> View Dashboard </a>
 - Dashboard Interaction Power BI <a href=""> View Dashboard </a>
 - Dashboard Interaction Tableau <a href=""> view Dashboard </a>
 
@@ -31,7 +31,7 @@ Designed interactive dashboards with slicers and filters for category, country, 
 Used bar, line, pie, and map visuals to highlight key metrics.
 
 ## Dashboard
-- EXCEL 
+- EXCEL https://github.com/PreethamKoppad/Crowdfunding-Kickstarter/blob/main/Crowdfunding%20excel.jpg
 - POWERBI 
 - TABLEAU
 
