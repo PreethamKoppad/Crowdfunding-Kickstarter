@@ -31,7 +31,7 @@ Designed interactive dashboards with slicers and filters for category, country, 
 Used bar, line, pie, and map visuals to highlight key metrics.
 
 ## Dashboard
-- EXCEL Crowdfunding excel.jpg
+- EXCEL
 - POWERBI 
 - TABLEAU
 
