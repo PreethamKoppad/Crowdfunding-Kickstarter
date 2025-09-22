@@ -17,7 +17,7 @@ The main objective of this project is to analyze Kickstarter crowdfunding data t
 - Pledged Amount vs. Goal (Scatter Plot)
 - Dashboard Interaction Excel <a href="https://github.com/PreethamKoppad/Crowdfunding-Kickstarter/blob/main/Crowdfunding%20excel.jpg"> View Dashboard </a>
 - Dashboard Interaction Power BI <a href="https://github.com/PreethamKoppad/Crowdfunding-Kickstarter/blob/main/Crowdfunding%20powerbi.jpg"> View Dashboard </a>
-- Dashboard Interaction Tableau <a href=""> view Dashboard </a>
+- Dashboard Interaction Tableau <a href="https://github.com/PreethamKoppad/Crowdfunding-Kickstarter/blob/main/Crowdfunding%20tableau.jpg"> view Dashboard </a>
 
 ## Process
 - Data Collection & Cleaning
