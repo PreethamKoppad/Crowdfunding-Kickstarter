@@ -12,9 +12,6 @@ The main objective of this project is to analyze Kickstarter crowdfunding data t
 - Category-wise Success Rate – Success percentage across project categories (e.g., Art, Games, Technology).
 - Country-wise Success Rate – Geographic performance of campaigns.
 - Projects by Launch Year/Month – Trends over time.
-- Category-wise Success Rate (Bar Chart)
-- Country-wise Performance (Map Visual)
-- Pledged Amount vs. Goal (Scatter Plot)
 - Dashboard Interaction Excel <a href="https://github.com/PreethamKoppad/Crowdfunding-Kickstarter/blob/main/Crowdfunding%20excel.jpg"> View Dashboard </a>
 - Dashboard Interaction Power BI <a href="https://github.com/PreethamKoppad/Crowdfunding-Kickstarter/blob/main/Crowdfunding%20powerbi.jpg"> View Dashboard </a>
 - Dashboard Interaction Tableau <a href="https://github.com/PreethamKoppad/Crowdfunding-Kickstarter/blob/main/Crowdfunding%20tableau.jpg"> view Dashboard </a>
