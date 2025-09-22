@@ -43,7 +43,7 @@ Used bar, line, pie, and map visuals to highlight key metrics.
 - Success rates are not evenly distributed across categories—creative arts often outperform high-capital projects.
 
 ## SQL Queries
-<a href=""> Dataset </a>
+<a href="https://github.com/PreethamKoppad/Crowdfunding-Kickstarter/blob/main/Grp%201-crowdfundingKickstarter%20finalll.sql"> Dataset </a>
 
 ## Final Conclusion
 The analysis reveals that Kickstarter success depends heavily on category, funding goal, and geography. Creators can increase chances of success by setting realistic goals, choosing the right launch period, and focusing on categories with historically higher success. Investors can use these insights to identify high-potential campaigns and mitigate risks.
