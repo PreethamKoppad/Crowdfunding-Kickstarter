@@ -33,7 +33,7 @@ Used bar, line, pie, and map visuals to highlight key metrics.
 ## Dashboard
 - EXCEL ![Crowdfunding excel](https://github.com/user-attachments/assets/b08ae3f5-d28e-407c-b6b9-f3c42690e411)
 - POWERBI ![Crowdfunding powerbi](https://github.com/user-attachments/assets/591a166b-5ce8-46f2-b43d-f724c6f10c9a)
-- TABLEAU ![Tableau](https://github.com/user-attachments/assets/cce4cffb-1e65-477e-8091-1999e4cb077c)
+- TABLEAU ![Crowdfunding tableau](https://github.com/user-attachments/assets/94713b33-0975-49c0-be6b-492007c486e1)
 
 ## Insights
 - Technology and Games categories attract high pledges but also have higher failure rates compared to Art or Music.
